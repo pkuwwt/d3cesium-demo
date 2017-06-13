@@ -1,6 +1,6 @@
 # d3cesium-demo
 
-A local demo for [Cesium](https://cesiumjs.org) + [D3js](https://d3js.org/).
+A self-contained demo for [Cesium](https://cesiumjs.org) + [D3js](https://d3js.org/).
 
 [Try it online](https://pkuwwt.github.io/d3cesium-demo/).
 
