@@ -2,6 +2,8 @@
 
 A local demo for [Cesium](https://cesiumjs.org) + [D3js](https://d3js.org/).
 
+[Try it online](https://pkuwwt.github.io/d3cesium-demo/).
+
 ## Usage
 
     git clone https://github.com/pkuwwt/d3cesium-demo.git
